@@ -98,7 +98,7 @@ body {
 }
 .section-1 {
 	text-align: center;
-	background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../media/img01.jpeg);
+	background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,1)), url(../images/img-sec.jpg);
 	color: white;
 	background-size: cover;
 	background-attachment: fixed;
